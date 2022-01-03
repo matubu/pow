@@ -3,4 +3,4 @@ defmodule Math do
   def pow(a, b), do: a * pow(a, b - 1)
 end
 
-IO.puts Math.pow(2, 100)
+IO.puts Math.pow(2, 4)
