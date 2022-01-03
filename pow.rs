@@ -9,5 +9,5 @@ fn pow(a: i64, mut b: i64) -> i64
 }
 
 fn main() {
-    println!("{}", pow(2, 16));
+    println!("{}", pow(2, 4));
 }
